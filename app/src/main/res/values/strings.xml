@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SliderSushant</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome To Our App!</string>
+    <string name="slide_1_desc">The easiest way to design clothes from your favourite shop!</string>
+
+    <string name="slide_2_title">Gentleman</string>
+    <string name="slide_2_desc">New style combine with beautiful fabrics!</string>
+
+    <string name="slide_3_title">Ladies</string>
+    <string name="slide_3_desc">Hustle for the pretty things!</string>
+
+    <string name="slide_4_title"> Great Discount</string>
+    <string name="slide_4_desc">Discounts!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+</resources>
